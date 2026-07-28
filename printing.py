@@ -1,1 +1,1 @@
-pruint("Are you reallly ther jenkins")
+print("Are you reallly ther jenkins")
